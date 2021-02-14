@@ -6,3 +6,5 @@ This is a basic create react-app using Yarn. I've done a few things to make the 
 1. Made some starter pages.
 1. Made some starter components.
 1. Deleted a lot of the "extra" code that comes with create react-app.
+
+**Make sure to copy the .gitignore file**
